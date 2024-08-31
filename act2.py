@@ -53,5 +53,5 @@ async def futbol(ctx):
             picture = discord.File(f)
     await ctx.send(content='aqui esta tu meme de futbol',file=picture)
 
-bot.run('MTI1NjQyMDU2MzkyMTE0MTc3MA.GnCq0F.iLoJiPLnlQyrccaWweABQtVy1xP9ke80mqLnOY')
+bot.run('')
 
